@@ -1,0 +1,3 @@
+name: Test-BUKKIT-5621
+main: pokechu22.testplugins.BUKKIT_5621.Main
+version: "0"
